@@ -1,5 +1,8 @@
 {
     "name": "marlla/php-marlla-core",
+    "description": "Core package of the Marlla PHP Framework",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Marlla\\PhpMarllaCore\\": "src/"
