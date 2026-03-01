@@ -1,0 +1,15 @@
+{
+    "name": "marlla/php-marlla-core",
+    "autoload": {
+        "psr-4": {
+            "Marlla\\PhpMarllaCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mana007777",
+            "email": "e7ifubbb@gmail.com"
+        }
+    ],
+    "require": {}
+}
